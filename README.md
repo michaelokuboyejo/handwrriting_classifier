@@ -2,7 +2,7 @@ NN Based Handwriting Classifier Using Keras
 -----
 
 This is a simple project that demonstrates the use of a Neural Network (NN) to classify and identify numeric digits from hand writings. The project uses the MNIST dataset.
-This example project is taken from François Charlotte's [Deep Learrning With Python Book](https://www.manning.com/books/deep-learning-with-python)
+This example project is taken from François Charlotte's [Deep Learning With Python Book](https://www.manning.com/books/deep-learning-with-python)
 
 # Dependencies
 - Keras
