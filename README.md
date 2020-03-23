@@ -179,4 +179,5 @@ test_accuracy: 97.93999791145325 %
 ```
 
 ## TODO
-Write the programme in a Jupyter Notebook
+- Write the programme in a Jupyter Notebook
+- Build an HTTP API to serve requests and classify handwritings 😉
